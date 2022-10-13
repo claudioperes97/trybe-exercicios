@@ -58,4 +58,4 @@ código: ls *txt
 - Liste todos os arquivos que terminem com tbt ou txt.
 Acesse o manual do comando ls.
 
-código: ls man
+código: ls man.
